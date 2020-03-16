@@ -1,1 +1,1 @@
-web: gunicorn api.venv.api:app
+web: gunicorn api:app
