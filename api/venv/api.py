@@ -10,6 +10,3 @@ def get_current_time():
 
 
 
-@app.route('/')
-def get_current_time():
-    return render_template('../../')
